@@ -1,0 +1,8 @@
+saraju@gmail.com,123,saraju,9876543221
+infoconfidential575@gmail.com,info123,Alexa,8958123404
+saraju8604@gmail.com,12345,Sarajuddin,8958708604
+abc123@gmail.com,abc123,Sarajuddin,8958345623
+hello@moto.com,hello@321,Hello Moto,1234567890
+kirti9695@gmail.com,#Kirti#,Kirti Rajput,6396123450
+testing@gmail.com,test@321,Tester,9875214369
+kirti,6754,Kirti,6396954126
